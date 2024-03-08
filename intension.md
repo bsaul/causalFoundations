@@ -17,7 +17,7 @@ drawing insights
 from the fields of logic, math, statistics, and computer science;
 * translate and publish our foundations into one or more
 formally verified (machine checked)
-proof managment systems[^1].
+proof management systems[^1].
 
 where:
 
