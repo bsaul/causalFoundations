@@ -1,5 +1,6 @@
 name: causalFoundations
 include:
   src
+  docs
 depend:
   standard-library
