@@ -1,0 +1,5 @@
+name: causalFoundations
+include:
+  src
+depend:
+  standard-library
