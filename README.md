@@ -1,4 +1,4 @@
-# Intensions of the Foundations Forum
+# Intentions of the Foundations Forum
 
 The vision of the Foundations Forum is to
 foster collegial discussions on the foundations of causality.
