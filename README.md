@@ -19,15 +19,22 @@ or
 
 ### Next Meeting
 
-* [20250221](meetings/20250221/README.md)
+TBD
 
 ### Past Meetings
 
-* [20250117](meetings/20250117/README.md)
-* [20241220](meetings/20241220/README.md)
-* [20241117](meetings/20241117/README.md)
-* [20241018](meetings/20241018/README.md)
-* [20240920](meetings/20240920/README.md)
-* [20240823](meetings/20240823/README.md)
-* [20240719](meetings/20240719/README.md)
-* [20240628](meetings/20240628/README.md)
+* [20260327](meetings/20260327/README.md) — Greenland, "The Causal Foundations of Applied Probability and Statistics"
+* [20260227](meetings/20260227/README.md) — Cox, "Causality: Some Statistical Aspects"
+* [20260116](meetings/20260116/README.md) — Papineau, "Causal inference and the metaphysics of causation"
+* [20251121](meetings/20251121/README.md) — McCullagh, "What is a statistical model?"
+* [20251024](meetings/20251024/README.md) — Gigerenzer, "Mindless Statistics"
+* [20250926](meetings/20250926/README.md) — Recht, "A Bureaucratic Theory of Statistics"
+* [20250221](meetings/20250221/README.md) — Lin, "The Logic of Counterfactuals and the Epistemology of Causal Inference"
+* [20250117](meetings/20250117/README.md) — Lindley, "Seeing and doing: The concept of causation"
+* [20241220](meetings/20241220/README.md) — Stein, "Efficient nonparametric testing and estimation"
+* [20241122](meetings/20241122/README.md) — Ramsey, "FP Ramsey: philosophical papers"
+* [20241018](meetings/20241018/README.md) — Peirce, "The doctrine of necessity examined"
+* [20240920](meetings/20240920/README.md) — Peirce, "The doctrine of necessity examined"
+* [20240823](meetings/20240823/README.md) — Richardson, "Single world intervention graphs: a primer"
+* [20240719](meetings/20240719/README.md) — Robins, "Conditioning, likelihood, and coherence"
+* [20240628](meetings/20240628/README.md) — Robins, "Alternative Graphical Causal Models and the Identification of Direct Effects"
