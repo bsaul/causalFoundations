@@ -14,12 +14,12 @@ somewhere in the greater Chapelboro metropolitan area.
 If you're interested in joining us,
 email
 [Bradley Saul](https://github.com/bsaul)
-or 
+or
 [Steve Cole](https://sph.unc.edu/adv_profile/stephen-r-cole-phd/).
 
 ### Next Meeting
 
-TBD
+[20260501](meetings/20260501/README.md) — Wigner, "The Unreasonable Effectiveness of Mathematics in the Natural Sciences"
 
 ### Past Meetings
 
